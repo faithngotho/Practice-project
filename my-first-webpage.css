@@ -1,0 +1,14 @@
+header{
+  background-position: left;
+  background-size: auto;
+  text-align: center;
+  font-style: italic;
+  font-size: 19px;
+  padding: 10px;
+  background-color: white;
+  text-decoration-color: orange;
+}
+body{
+  background-image: url(200.gif);
+  text-align: center;
+}
